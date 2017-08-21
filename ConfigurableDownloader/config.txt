@@ -1,0 +1,6 @@
+# https://github.com/SciresM/boot9strap/releases/download/1.2/boot9strap-1.2.zip /test/A
+~ boot9strap-1.2.firm.sha
+* boot9strap-1.2.firm test.firm
+# https://github.com/SciresM/boot9strap/releases/download/1.2/boot9strap-1.2-ntr-devkit.zip /test/B
+* boot9strap-1.2-ntr-devkit.firm.sha test.firm.sha
+~ boot9strap-1.2-ntr-devkit.firm
